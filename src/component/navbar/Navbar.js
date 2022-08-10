@@ -1,11 +1,11 @@
 import React from "react";
 
-const Signup = () => {
+const Navbar = () => {
     return (
         <div>
-            Signup
+            Navbar
         </div>
     )
 }
 
-export default Signup;
+export default Navbar;
